@@ -1,0 +1,43 @@
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\appsettings.Development.json
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\appsettings.json
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Teste PMESP.exe
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Teste PMESP.deps.json
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Teste PMESP.runtimeconfig.json
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Teste PMESP.runtimeconfig.dev.json
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Teste PMESP.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\ref\Teste PMESP.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Teste PMESP.pdb
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\EPPlus.Core.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\FireSharp.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Microsoft.Threading.Tasks.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\System.Net.Http.Extensions.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\System.Net.Http.Primitives.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.GeneratedMSBuildEditorConfig.editorconfig
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.AssemblyInfoInputs.cache
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.AssemblyInfo.cs
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.csproj.CoreCompileInputs.cache
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.MvcApplicationPartsAssemblyInfo.cs
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.MvcApplicationPartsAssemblyInfo.cache
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\staticwebassets\Teste PMESP.StaticWebAssets.Manifest.cache
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\staticwebassets\Teste PMESP.StaticWebAssets.xml
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\scopedcss\bundle\Teste PMESP.styles.css
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.RazorTargetAssemblyInfo.cache
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.csproj.CopyComplete
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\ref\Teste PMESP.dll
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.pdb
+D:\TempEu\Visual Studio\Teste PMESP\Teste PMESP\obj\Debug\net5.0\Teste PMESP.genruntimeconfig.cache

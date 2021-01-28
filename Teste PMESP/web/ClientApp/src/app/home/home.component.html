@@ -1,0 +1,89 @@
+
+<h1>Importar Planilha</h1>
+
+<h5>Clique no botão para importar a planilha</h5>
+
+<br />
+
+<form method="post" enctype="multipart/form-data">
+  <input type="file" name="arquivo" id="arquivo"><br /><br />
+  <input type="submit" value="Gravar" id="btnGravar" name="submit">
+</form>
+
+<script>
+  $(document).ready(function () {
+    //pesquisarArquivos();
+
+    $("#btnGravar").on('click', function () {
+      Pace.track(function () {
+        //var FuncionarioId = $('#ID_HistoricoOrdemServico').val();
+        var Arquivo = $('#Arquivo').val();
+        var files = $('#Arquivo').prop("files");
+
+        var formData = new FormData();
+
+        //for (var i = 0, f; f = files[i]; i++) {
+        //    console.log(f.size);
+
+        //    if (f.size > 1048576 || f.fileSize > 1048576) {
+        //        $.SmartMessageBox({
+        //            title: "Tamanho excedido",
+        //            content: "Favor enviar arquivos com ate 1MB",
+        //            buttons: '[OK]'
+        //        });
+        //        return;
+        //    } else {
+        //        formData.append('teste_' + i, files[i]);
+        //    }
+        //};
+
+        if (Arquivo == "") {
+          $.SmartMessageBox({
+            title: "Aviso",
+            content: "Favor Selecionar um Arquivo",
+            buttons: '[OK]'
+          });
+          return;
+        }
+
+
+        //formData.append('ID_HistoricoOrdemServico', ID_HistoricoOrdemServico);
+
+        //$.ajax({
+        //  method: "POST",
+        //  url: 'GravarArquivo',
+        //  data: formData,
+        //  contentType: false,
+        //  processData: false,
+        //  success: function (data) {
+        //    setTimeout(function () {
+
+        //      $.SmartMessageBox({
+        //        title: "Ordem Servico",
+        //        content: "Arquivo cadastrado com sucesso",
+        //        buttons: '[OK]'
+        //      }, function (ButtonPressed) {
+        //        if (ButtonPressed === "OK") {
+
+        //          //window.location.href = '@Url.Action("Index", "Menu")';
+        //        }
+        //      });
+        //    }, 500);
+        //  },
+
+        //  error: function (parsedjson, textStatus, errorThrown) {
+        //    $.SmartMessageBox({
+        //      title: "Ordem Servico",
+        //      content: "Erro ao Gravar",
+        //      buttons: '[OK]'
+
+        //    });
+        //  }
+        //});
+
+      });
+    });
+  });
+
+
+</script>
